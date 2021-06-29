@@ -1,4 +1,4 @@
-import {StyleSheet} from 'react-native';
+import { StyleSheet } from 'react-native';
 import strings from '../../assets/string'
 
 const styles = StyleSheet.create({

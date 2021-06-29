@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {View, Text} from 'react-native';
+import { View, Text } from 'react-native';
 import styles from './style'
 import commonStyles from '../../assets/styles'
 import strings from '../../assets/string'
