@@ -4,13 +4,13 @@ import colors from 'assets/colors'
 export default StyleSheet.create({
 
   btn: {
-    backgroundColor: colors.primary,
+    backgroundColor: colors.primaryButton,
     alignItems: 'center',
     justifyContent: 'center',
     paddingVertical: '2%',
     borderRadius: 5,
     borderWidth: 1,
-    borderColor: colors.primary,
+    borderColor: colors.primaryButton,
 
   },
   title: {

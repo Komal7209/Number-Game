@@ -6,6 +6,7 @@ const colors = {
 
   background: strings.background,
   primary: strings.primary,
+  primaryButton: strings.primaryButton,
   accent: strings.accent,
   tile_2: strings.tile_2,
   tile_4: strings.tile_4,

@@ -2,6 +2,7 @@ const strings = {
   //login screen
   welcomeBack: "Welcome back!",
   luckyNumber: "Lucky Number",
+  startGame: "Start Game!",
 
   // number selection screen
   title: "Select a number to start the game",
@@ -23,6 +24,7 @@ const strings = {
   // colors
   background: '#212322',
   primary: '#00966C',
+  primaryButton: '#841584',
   accent: '#000',
   tile_2: '#007DBA',
   tile_4: '#009cbb',
