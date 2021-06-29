@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FlatList, SafeAreaView, TouchableHighlight, View, Alert, ScrollView,Text, } from 'react-native';
 import styles from './style'
-import strings from 'assets/string'
+import strings from '../../assets/string'
 
 const staticDATA = [
   {
